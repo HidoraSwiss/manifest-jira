@@ -8,7 +8,7 @@
     <url>jdbc:postgresql://DBHOST:5432/jiradb</url>
     <driver-class>org.postgresql.Driver</driver-class>
     <username>webadmin</username>
-    <password>QSMfis97482</password>
+    <password>DBPASSWORD</password>
     <pool-min-size>20</pool-min-size>
     <pool-max-size>20</pool-max-size>
     <pool-max-wait>30000</pool-max-wait>
